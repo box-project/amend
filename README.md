@@ -1,7 +1,7 @@
 Amend
 =====
 
-[![Build Status](https://secure.travis-ci.org/kherge/Amend.png?branch=master)](http://travis-ci.org/kherge/Amend)
+[![Build Status](https://travis-ci.org/box-project/amend.png?branch=master)](https://travis-ci.org/box-project/amend)
 
 Integrates [Phar Update](https://github.com/herrera-io/php-phar-update) to [Symfony Console](https://github.com/symfony/Console).
 
