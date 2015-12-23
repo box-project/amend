@@ -16,7 +16,7 @@
   </filter>
   <testsuites>
     <testsuite name="Amend Test Suite">
-      <directory phpVersion="5.3.0" phpVersionOperator=">=" suffix="Test.php">src/tests/</directory>
+      <directory phpVersion="5.5.9" phpVersionOperator=">=" suffix="Test.php">src/tests/</directory>
     </testsuite>
   </testsuites>
 </phpunit>
